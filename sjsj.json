@@ -1,0 +1,15 @@
+{"organization": "HIIT",
+  "course": "python",
+  "students": [
+    {
+      "name": "Batul",
+      "course": "python"
+    },
+    {"name": "Jesse",
+      "course": "python"
+    },
+    {"name":"Jessica",
+      "course":"python"
+    }
+  ]
+}

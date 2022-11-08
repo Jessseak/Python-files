@@ -1,0 +1,26 @@
+{
+  "company": "NBA",
+  "profession": "Basketballer",
+  "Top players": [
+    {
+      "name": "Jayson Tatum",
+      "team": "Boston Celtics"
+    },
+    {
+      "name": "Kevin Durant",
+      "team": "Brooklyn Nets"
+    },
+    {
+      "name": "Brandon Ingram",
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "name": "Jaylen Brown",
+      "team": "Boston Celtics"
+    }
+  ]
+}
+
+
+
+
